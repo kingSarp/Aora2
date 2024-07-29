@@ -4,6 +4,7 @@ import { images } from "../constants";
 import CustomButton from "@/components/CustomButton";
 import { StatusBar } from "expo-status-bar";
 
+
 export default function Index() {
   return (
     <SafeAreaView className="bg-primary h-full">
